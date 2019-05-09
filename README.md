@@ -2,8 +2,10 @@
 Starter kit for JavaScript projects
 
 Some command line used:
+browser-sync start --server --files "*"
+sudo npm install browser-sync -g
 
-npm install localtunnel -g
+sudo npm install localtunnel -g
 lt --port 3000 --subdomain rodney
 
 
