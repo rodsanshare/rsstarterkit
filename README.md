@@ -2,7 +2,7 @@
 Starter kit for JavaScript projects  
 
 Some command line used:   
-rowser-sync start --proxy https://google.com  
+browser-sync start --proxy https://google.com  
 
 browser-sync start --server --files "*"  
 sudo npm install browser-sync -g  
